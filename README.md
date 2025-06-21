@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a >
-      <img src="https://github.com/adrianhajdin/zoom-clone/assets/67959015/f09a8421-67d3-45ce-b9bc-a791cdc2774b" alt="Project Banner">
-    </a>
+  
   
   <br />
 
